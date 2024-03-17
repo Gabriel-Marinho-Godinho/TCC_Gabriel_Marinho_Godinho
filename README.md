@@ -1,6 +1,6 @@
 ### TCC_Gabriel_Marinho_Godinho
 ##
-Trata-se de um projeto para realizar a análise exploratória das Tarifas Aéreas praticadas no Brasil no Período de 2019 a 2022 e traçar perspectivas para o futuro serviço de transporte por carros elétricos voadores: _electric vertical take-off and landing_ (eVTOL), utilizando-se de linguagem Python. Este projeto foi desenvolvido para o Trabalho de Conslusão de Curso (TCC) do aluno Gabriel Marinho Godinho.
+Trata-se de um projeto para realizar a análise exploratória das Tarifas Aéreas praticadas no Brasil no Período de 2019 a 2022 e traçar perspectivas para o futuro serviço de transporte por carros elétricos voadores: _electric vertical take-off and landing_ (eVTOL), utilizando-se de linguagem Python. Este projeto foi desenvolvido para o Trabalho de Conslusão de Curso (TCC) do aluno Gabriel Marinho Godinho, sobre orientação do professor Dr. Victor Rafael Rezende Celestino.
 
 Os dados foram organizados, transformados e visualizados na plataforma Google Colaboratory, utilizando-se dos pacotes:
 
